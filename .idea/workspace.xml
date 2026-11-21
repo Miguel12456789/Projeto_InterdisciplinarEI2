@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a16ebcd-a0b9-45d5-a383-12d15c21d608" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TiagoMartins9"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Miguel12456789/Projeto_InterdisciplinarEI2.git",
+    "accountId": "b4f01bc2-d2e4-4b25-bf68-ea8ffe90bbb2"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000007246483" />
+      <entry key="S2" value="1.0051883804940263" />
+      <entry key="S5" value="1.1219025322402272" />
+      <entry key="S10" value="1.3491454313609548" />
+      <entry key="S30" value="1.704155843813493" />
+      <entry key="S60" value="1.839139942925787" />
+      <entry key="M2" value="1.9160458192283762" />
+      <entry key="M5" value="1.9655324599668813" />
+      <entry key="M10" value="1.9826151128325278" />
+      <entry key="M15" value="1.9883762314982933" />
+      <entry key="M30" value="1.994171127874016" />
+      <entry key="H1" value="1.9970813045454299" />
+      <entry key="H2" value="1.9985395858679964" />
+      <entry key="H4" value="1.9992695261379667" />
+      <entry key="D1" value="1.9998782172847736" />
+      <entry key="W1" value="1.9999826015611628" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9075191553171609" />
+      <entry key="MS500" value="0.9807790046943619" />
+      <entry key="S2" value="1.0003140495965395" />
+      <entry key="S5" value="1.1196429384789472" />
+      <entry key="S10" value="1.3477159812265047" />
+      <entry key="S30" value="1.7035233756430879" />
+      <entry key="S60" value="1.838794053504413" />
+      <entry key="M2" value="1.915864426368845" />
+      <entry key="M5" value="1.9654577283321426" />
+      <entry key="M10" value="1.9825773716974655" />
+      <entry key="M15" value="1.9883509863574704" />
+      <entry key="M30" value="1.9941584628641031" />
+      <entry key="H1" value="1.9970749613839756" />
+      <entry key="H2" value="1.998536411617297" />
+      <entry key="H4" value="1.9992679383443916" />
+      <entry key="D1" value="1.9998779525596395" />
+      <entry key="W1" value="1.9999825637410114" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3MPiwRUALe8ipZvOrI1c9kmkN5N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-9e1d95ea72ba-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.329" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a16ebcd-a0b9-45d5-a383-12d15c21d608" name="Changes" comment="" />
+      <created>1795258841333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795258841333</updated>
+      <workItem from="1795258842554" duration="131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
