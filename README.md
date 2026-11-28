@@ -27,9 +27,9 @@ Este projeto est√° a ser desenvolvido de forma progressiva, estando previstas v√
 
 ## Tecnologias
 
-- React
-- Python
-- Flask
-- MySQL / SQL Server
+- React - Frontend
+- Python - Backend
+- Flask - Middleware
+- MySQL / SQL Server - Database
 
 
