@@ -21,7 +21,7 @@ O principal objetivo do ALFAS é facilitar o acesso a informação sobre saúde 
 
 ## Estado do projeto
 
-🚧 **Em desenvolvimento**
+**Em desenvolvimento**
 
 Este projeto está a ser desenvolvido de forma progressiva, estando previstas várias etapas de análise, implementação e testes.
 
@@ -32,10 +32,4 @@ Este projeto está a ser desenvolvido de forma progressiva, estando previstas v�
 - Flask
 - MySQL / SQL Server
 
-## Como obter o projeto
 
-O código-fonte e os respetivos ficheiros de instalação serão disponibilizados neste repositório à medida que o desenvolvimento avançar.
-
----
-
-**ALFAS — Alfabetização em Saúde**
