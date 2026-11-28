@@ -18,3 +18,17 @@ if __name__ == '__main__':
   # debug=True ativa o "reloader" (reinicia a app)
   # e mostra erros detalhados no browser.
   app.run(debug=True)
+
+  from database import criar_conexao
+
+  # Testar ligação à base de dados
+  conexao = criar_conexao()
+
+  if conexao:
+    print("Teste concluído com sucesso!")
+
+    conexao.close()
+    print("Ligação fechada.")
+
+  else:
+    print("Não foi possível ligar à base de dados.")
